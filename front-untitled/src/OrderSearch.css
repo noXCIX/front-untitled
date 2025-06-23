@@ -1,0 +1,70 @@
+.input-width {
+  min-width: 150px;
+  max-width: 150px;
+}
+
+.label-width {
+  min-width: 50px;
+  max-width: 50px;
+}
+
+.button-width {
+  min-width: 120px;
+  max-width: 120px;
+}
+
+.common-label {
+  color: #326c90;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.common-font-size {
+  font-size: 14px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.jhRxsf {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.kFhx {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.kMgreK {
+  border-bottom: solid 2px lightblue !important;
+}
+
+.dzQwAz {
+  opacity: 0.1 !important;
+}
+
+.iCORmq {
+  opacity: 0.1 !important;
+}
+
+.input-suffix {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: .375rem .5rem;
+  position: absolute;
+  height: 100%;
+  right: 0;
+  z-index: 2;
+}
+
+.visually-hidden {
+  opacity: 0;
+  pointer-events: none;
+  height: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+.custom-padding {
+  padding: .375rem 2.25rem .375rem .75rem;
+}
